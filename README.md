@@ -18,4 +18,8 @@ If you decide to host the bot yourself, you will need:
 - An API Key and API Hash (https://my.telegram.org)
 - A Telegram Bot API Token (https://t.me/BotFather)
 
+### Deploy To Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ninja8bpyt/TTSBOT)
+
 Once you have met all the requirements, you can simply edit the docker-compose.yml file and the config.py file according to your needs, and start up the bot by using `docker compose up -d`.
